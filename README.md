@@ -3,10 +3,6 @@ Module 21 Challenge
 
 ### Step 1: Preprocess the Data
 
-Data was preprocessed as requested.
-
-### Step 1: Preprocess the Data
-
 The information available in the database consisted of:
 
 - 'EIN' and 'NAME'—Identification columns
